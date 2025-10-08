@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Yash Patel** (TheOrcusss)
+# 👋 Hi, I am **Yash Patel** (TheOrcusss)
 
 🎓 B.Tech in Computer Science & Engineering (Data Science) — DJ Sanghvi College  
 📍 Mumbai, India  
