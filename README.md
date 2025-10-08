@@ -7,7 +7,7 @@
 
 ## 🔭 My Work & Projects
 
-Here are some of my pinned or featured projects:
+Here are some of my projects:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
@@ -15,8 +15,6 @@ Here are some of my pinned or featured projects:
 | **ML-Mini-Project** | Small machine learning experiments and demos | Python, scikit-learn, pandas, etc. |
 | **Web_Mini_Project** | Web apps / micro projects | HTML, CSS, JS, frameworks |
 | **Mern-Stack** | Full stack project using MERN | MongoDB, Express, React, Node |
-| **Lyrics-Website** | A lyrics search or display website | HTML, CSS, JavaScript |
-| **orcus** | Web Lab Experiments | JavaScript |
 
 ---
 
