@@ -11,9 +11,9 @@ Here are some of my projects:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **IPD_Website** | A website project (frontend + backend) | JavaScript, HTML, CSS, etc. |
-| **ML-Mini-Project** | Small machine learning experiments and demos | Python, scikit-learn, pandas, etc. |
-| **Web_Mini_Project** | Web apps / micro projects | HTML, CSS, JS, frameworks |
+| **IPD_Website** | A website project (frontend + backend) | JavaScript, React, Tailwind, etc. |
+| **ML-Mini-Project** | Small machine learning experiments and demos | Python, Scikit-learn, Pandas, etc. |
+| **Web_Mini_Project** | Web apps / micro projects | HTML, CSS, JS |
 | **Mern-Stack** | Full stack project using MERN | MongoDB, Express, React, Node |
 
 ---
