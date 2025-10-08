@@ -30,7 +30,7 @@ Here are technologies and tools I use / am learning:
 - **Databases**: MongoDB, SQL.
 - **Machine Learning / Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
 - **Version Control**: Git, GitHub.
-- **Other tools**:VS Code, Adobe Photoshop, DaVinci Resolve.
+- **Other tools**: VS Code, Adobe Photoshop, DaVinci Resolve.
 
 ---
 
@@ -39,7 +39,7 @@ Here are technologies and tools I use / am learning:
 - Deepening my understanding of **Data Science / Machine Learning**
 - Building more **Full-stack Web Apps & Machine Learning Projects**
 - Exploring **Cloud Computing / Cloud Deployment**
-- Trying out new frameworks (e.g. Next.js, FastAPI)  
+- Trying out new frameworks (e.g. Next.js, FastAPI, Firebase, PySpark)  
 
 ---
 
