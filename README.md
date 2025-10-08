@@ -45,7 +45,7 @@ Here are technologies and tools I use / am learning:
 
 ## 📫 How to Reach Me
 
-- Email: *yashbpatel.0027@gmail.com*  
+- Email: *yashbpatel0027@gmail.com*  
 - LinkedIn: *https://www.linkedin.com/in/yash-patel-809620289*
 
 ---
