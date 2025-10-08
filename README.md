@@ -50,12 +50,6 @@ Here are technologies and tools I use / am learning:
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOrcusss&show_icons=true&theme=radical)  
-
----
-
 ## 🪄 Fun Notes
 
 - When I’m not coding, I enjoy *Gaming, Playing Musical Instruments (like Guitar, Piano, Flute), Music Production, Travelling.*  
