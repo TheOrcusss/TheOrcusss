@@ -56,10 +56,10 @@ Here are technologies and tools I use / am learning:
 
 ---
 
-## 🪄 Fun / Personal Notes
+## 🪄 Fun Notes
 
-- When I’m not coding, I enjoy *Gaming, Playing Mmsical Instruments like Guitar, Piano, Flute, Music Production, Travelling.*  
-- Favorite quote or motto: *“Strive not to be a success, but rather to be of value.”* — Albert Einstein
+- When I’m not coding, I enjoy *Gaming, Playing Musical Instruments (like Guitar, Piano, Flute), Music Production, Travelling.*  
+- Favorite Quote: *“Strive not to be a success, but rather to be of value.”* — Albert Einstein
 
 ---
 
